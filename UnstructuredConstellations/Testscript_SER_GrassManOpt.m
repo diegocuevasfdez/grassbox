@@ -27,6 +27,7 @@ close all
 clc
 
 addpath('./functions')
+addpath('./BestPackings')
 
 %% CONSTELLATION PARAMETERS
 NumCodewords = 16; % constellation size
@@ -50,6 +51,11 @@ C_ini = SubspacesGenerationRandom(T,M,NumCodewords); % random subspaces generati
 
 % Optimization algorithm
 [C,separation] = ManifoldOptimization(C_ini,opt_params);
+
+% Load BestPackings
+% Instead of generating a new constellation, we can load one
+% Cbest_struct = load('Cbest4x2x16.mat');
+% C = Cbest_struct.Cbest;
 
 %% SIMULATION PARAMETERS
 SNR = [0 3 6 9 12 15 18 21]; % signal-to-noise ratio [dB]
