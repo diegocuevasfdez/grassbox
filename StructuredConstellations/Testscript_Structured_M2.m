@@ -52,10 +52,12 @@ params.Alpha = 0.01:0.02:0.25;
 params.PlotResults = 0;
 params.ErrorRate = 'BER';
 
-alpha = FindAlphaOpt(T,M,N,B_GL,params); % find optimal value of parameter 
-                                         % alpha (some tables with the optimal
-                                         % values of alpha for different 
-                                         % scenarios are provided in [3])
+% alpha = FindAlphaOpt(T,M,N,B_GL,params); % find optimal value of parameter 
+                                           % alpha (some tables with the optimal
+                                           % values of alpha for different 
+                                           % scenarios are provided in [3])
+
+alpha = 0.15; % optimal value for T = 4, M = 2, B = 2 [3, Table 1]
 
 P_GL = 2^B_GL; % P points equispaced btw [alpha, 1-alpha]
 lattice_GL = alpha + (0:P_GL-1)*(1-2*alpha)./(P_GL-1); % lattice used 
