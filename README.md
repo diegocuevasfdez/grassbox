@@ -69,4 +69,6 @@ Included algorithms and designs
   
     [7] K. -H. Ngo, A. Decurninge, M. Guillaud and S. Yang, "Cube-Split: A Structured Grassmannian Constellation for Non-Coherent SIMO Communications," in IEEE Transactions on Wireless Communications, vol. 19, no. 3, pp. 1948-1964, Mar. 2020.
 
-  
+License
+---
+This source code is released under the FreeBSD 3-Clause License.
