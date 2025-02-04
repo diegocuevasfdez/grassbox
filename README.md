@@ -5,7 +5,7 @@ A Matlab toolbox with implementations of different Grassmannian constellation de
 Noncoherent communication schemes alleviate the drawbacks of training-based methods in scenarios dominated by fast fading or massive MIMO systems, where getting an accurate channel estimate would require pilots to occupy a disproportionate fraction of the communication resources. In particular, Grassmannian signaling appears to be a promising approach to this problem when considering block-fading channels, which are likely to arise in many future networks. The basic idea is to encode the messages to be transmitted into different subspaces. When the coherence time of the channel, understood as the time that the channel remains approximately constant, is greater than the number of transmit antennas, the transmitted subspaces (represented by a semi-unitary matrix) are invariant to the MIMO channel, allowing the receiver to decode the received signal without the need of knowing the channel. This toolbox includes algorithms to obtain both structured and unstructured Grassmannian constellation designs and testcripts to evaluate their performance.
 
 <p align="center">
-<img src="StructuredConstellations/figures/GrassLattice.svg" width="65%">
+<img src="StructuredConstellations/figures/GrassLattice.svg" width="40%">
 <div align="center"><i>Representation of Grass-Lattice constellation.</i></div>
 </p>  
 
