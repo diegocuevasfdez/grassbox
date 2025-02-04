@@ -41,7 +41,16 @@ Directories included in the toolbox
 Citing GRASSBOX
 ---
 
-If you use this toolbox in your research please cite [""]():
+If you use this toolbox in your research please cite ["Advanced Grassmannian Constellation Designs for Noncoherent MIMO Communications"](https://hdl.handle.net/10902/34862):
+
+@phdthesis{CuevasThesis2024,
+      author = {Cuevas, Diego},
+      title = {Advanced {Grassmannian} Constellation Designs for Noncoherent {MIMO} Communications},
+      school = {Universidad de Cantabria, Spain},
+      year = {2024},
+      month = nov,
+      note = {Software available at \url{https://github.com/diegocuevasfdez/grassbox/}}
+    }
 	
 Included algorithms and designs
 ---
