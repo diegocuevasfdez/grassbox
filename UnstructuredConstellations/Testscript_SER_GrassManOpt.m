@@ -113,5 +113,6 @@ figure(1);clf;semilogy(SNR,SER,'r-^','MarkerSize',ms,'LineWidth',lw);hold on;
 xlabel('SNR (dB)');
 ylabel('SER');
 legend('GrassManOpt');
+title(['T = ' num2str(T) ', ' 'M = ' num2str(M) ', ' 'N = ' num2str(N) ', ' '|C| = ' int2str(NumCodewords)])
 set(findall(gcf,'-property','FontSize'),'FontSize',fs)
 grid on
