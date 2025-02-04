@@ -1,5 +1,5 @@
 # Grassmannian Constellation Design Toolbox
-===
+---
 
 A Matlab toolbox with implementations of different Grassmannian constellation designs
 
