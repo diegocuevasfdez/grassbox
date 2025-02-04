@@ -71,4 +71,4 @@ Included algorithms and designs
 
 License
 ---
-This source code is released under the FreeBSD 3-Clause License.
+This source code is released under the BSD 3-Clause License.
