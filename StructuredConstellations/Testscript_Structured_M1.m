@@ -127,7 +127,7 @@ for cc = 1:length(SNRdB) % SNR loop
         if ~mod(ss,floor(NumSim(cc)/10)), fprintf('.'); end
 
         % Encoder and Mapper (Grass-Lattice)
-        tx_bits_GL_expmap = randi([0,1],[2*(T-1)*B_GL,1]); % bit string to transmit 
+        tx_bits_GL_expmap = randi([0,1],[2*M*(T-M)*B_GL,1]); % bit string to transmit 
                                                            % (Gray encoded)
         tx_bitsbin_GL = Gray2Bin(tx_bits_GL_expmap,B_GL);
         tx_symbols_GL = bit2int(tx_bitsbin_GL,B_GL)+1; % bit-to-symbol mapper
