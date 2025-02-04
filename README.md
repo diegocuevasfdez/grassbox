@@ -1,5 +1,4 @@
 # Grassmannian Constellation Design Toolbox
----
 
 A Matlab toolbox with implementations of different Grassmannian constellation designs
 
@@ -43,7 +42,7 @@ Citing GRASSBOX
 
 If you use this toolbox in your research please cite [""]():
 	
-Included algorithms
+Included algorithms and designs
 ---
 - GrassmannOpt-Chordal (GMO-Chordal) algorithm, as proposed in:
   
