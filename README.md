@@ -5,7 +5,7 @@ A Matlab toolbox with implementations of different Grassmannian constellation de
 Noncoherent communication schemes alleviate the drawbacks of training-based methods in scenarios dominated by fast fading or massive MIMO systems, where getting an accurate channel estimate would require pilots to occupy a disproportionate fraction of the communication resources. 
 
 <p align="center">
-<img src="UnstructuredConstellations/figures/NonCoherent.pdf" width="50%">
+<img src="UnstructuredConstellations/figures/NonCoherent.svg" width="50%">
 <div align="center"><i>Coherent versus noncoherent transmission schemes over a block-fading channel.</i></div>
 </p>  
 
