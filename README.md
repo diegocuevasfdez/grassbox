@@ -1,4 +1,4 @@
-# Grassmannian Constellation Design Toolbox
+# Grassmannian Constellations Toolbox
 
 A Matlab toolbox with implementations of different Grassmannian constellation designs for noncoherent communications.
 
