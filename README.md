@@ -48,14 +48,27 @@ If you use this toolbox in your research please cite [""]():
 Included algorithms
 ---
 - GrassmannOpt-Chordal (GMO-Chordal) algorithm, as proposed in:
+  
     [1] D. Cuevas, C. Beltran, I. Santamaria, V. Tucek and G. Peters, "A Fast Algorithm for Designing Grassmannian Constellations," 25th International ITG Workshop on Smart Antennas (WSA), French Riviera, France, Nov. 2021.
+  
 - GrassmannOpt-Coherence (GMO-Coherence) algorithm, as proposed in:
+  
     [2] J. Alvarez-Vizoso, D. Cuevas, C. Beltran, I. Santamaria, V. Tucek and G. Peters, "Coherence-based Subspace Packings for MIMO Noncoherent Communications," 30th European Signal Processing Conference (EUSIPCO), Belgrade, Serbia, Aug. 2022.
+  
 - Grass-Lattice constellation design, as proposed in:
+  
     [3] D. Cuevas, J. Alvarez-Vizoso, C. Beltran, I. Santamaria, V. Tucek and G. Peters, "A Measure Preserving Mapping for Structured Grassmannian Constellations in SIMO Channels,", IEEE Global Communications Conference (GLOBECOM), Rio de Janeiro, Brazil, Dec. 2022.
+  
     [4] D. Cuevas, J. Alvarez-Vizoso, C. Beltran, I. Santamaria, V. Tucek and G. Peters, "Constellations on the Sphere with Efficient Encoding-Decoding for Noncoherent Communications," in IEEE Transactions on Wireless Communications, vol. 23, no. 3, pp. 1886-1898, Mar.          2024.
+  
     [5] D. Cuevas, C. Beltran, M. Gutierrez, I. Santamaria and V. Tucek, "Structured Multi-Antenna Grassmannian Constellations for Noncoherent Communications," IEEE 13rd Sensor Array and Multichannel Signal Processing Workshop (SAM), Corvallis, OR, USA, Jul. 2024.
+  
 - Exp-Map constellation design, as proposed in:
+  
     [6] I. Kammoun, A. M. Cipriano and J. -C. Belfiore, "Non-Coherent Codes over the Grassmannian," in IEEE Transactions on Wireless Communications, vol. 6, no. 10, pp. 3657-3667, Oct. 2007.
+  
 - Cube-Split constellation design, as proposed in:
+  
     [7] K. -H. Ngo, A. Decurninge, M. Guillaud and S. Yang, "Cube-Split: A Structured Grassmannian Constellation for Non-Coherent SIMO Communications," in IEEE Transactions on Wireless Communications, vol. 19, no. 3, pp. 1948-1964, Mar. 2020.
+
+  
