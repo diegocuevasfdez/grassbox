@@ -59,7 +59,7 @@ Directories included in the toolbox
 
 `UnstructuredConstellations/` - testscripts for SER evaluation of unstructured Grassmannian constellations
 
-`UnstructuredConstellations/BestPackings` - numerically optimized Grassmannian packings with the minimum chordal distance achieved by method in [1]
+`UnstructuredConstellations/BestPackings` - Grassmannian packings with the minimum chordal distance achieved by method in [1]
 
 `UnstructuredConstellations/figures` - figures obtained with testscripts for unstructured constellations
 
