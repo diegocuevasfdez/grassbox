@@ -14,7 +14,7 @@ In particular, Grassmannian signaling appears to be a promising approach to this
 Existing Grassmannian constellation designs can be generically categorized into two groups: unstructured and structured. The first group uses numerical optimization tools to solve packing problems on the Grassmannian.
 
 <p align="center">
-<img src="StructuredConstellations/figures/GrassManOpt.png" width="50%">
+<img src="UnstructuredConstellations/figures/GrassManOpt.png" width="50%">
 <div align="center"><i>Numerical optimization methods on the Grassmann manifold.</i></div>
 </p>  
 
