@@ -1,5 +1,5 @@
 <p align="center">
-<img src="logo_grassbox.png" width="25%">
+<img src="logo_grassbox.png" width="20%">
 </p>
 
 # <p align="center">Grassmannian Constellations Toolbox 
