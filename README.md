@@ -1,4 +1,5 @@
-# <p align="center">Grassmannian Constellations Toolbox <p align="center">
+# <p align="center">Grassmannian Constellations Toolbox 
+<p align="center">
 <img src="logo_grassbox.png" width="15%">
 </p>
 
