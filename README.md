@@ -1,4 +1,6 @@
+<p align="center">
 <img src="logo_grassbox.png" width="15%">
+</p>
 
 # Grassmannian Constellations Toolbox
 
