@@ -4,6 +4,8 @@
 
 # <p align="center">Grassmannian Constellations Toolbox 
 
+[![DOI](https://zenodo.org/badge/914363346.svg)](https://doi.org/10.5281/zenodo.14857110)
+
 A Matlab toolbox with implementations of different Grassmannian constellation designs for noncoherent communications.
 
 Noncoherent communication schemes alleviate the drawbacks of training-based methods in scenarios dominated by fast fading or massive MIMO systems, where getting an accurate channel estimate would require pilots to occupy a disproportionate fraction of the communication resources. 
